@@ -10,11 +10,13 @@
 ## Feeding a directory list
 - Let's make this more realistic by adding a directory list. This file contains a large list of common directory names, file names, and paths that web crawlers typically try to access on a website:
 <pre>python3 spidertrap.py directory-list-2.3-big.txt</pre>
-- Refresh the page <br><br>
-![53E12251-23B8-437D-A168-A9CC02A6553A-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8d7da576-a6c0-4ed1-aa36-8194aef1012c) <br>
+- Refresh the page <br>
+<img src="https://github.com/user-attachments/assets/8d7da576-a6c0-4ed1-aa36-8194aef1012c" width="500" height="auto" />
+ <br><br>
 - We're going to mirror the website locally with this command:
 <pre>sudo wget -m http://127.0.0.1:8000</pre>
 - Spidertrap will start crawling through the mirrored website and make HTTP requests to different paths from the directory list file until it crashes <br><br>
-![ScreenRecording2025-03-29at4 06 06PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/664dd48c-350f-4123-bc3b-5db997dc7ea1)
+<img src="https://github.com/user-attachments/assets/664dd48c-350f-4123-bc3b-5db997dc7ea1" width="1000" height="auto" />
+
 
 
