@@ -1,7 +1,7 @@
 # Spidertrap
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Spidertrap
-- In a terminal, obtain your IP and cd into  ```cd /opt/spidertrap```
+- In a terminal, obtain your IP and cd into  ```/opt/spidertrap```
 - Start spidertrap
 <pre>python3 spidertrap.py</pre>
 - Visit ```http://{YOUR LINUX IP}:8000```
