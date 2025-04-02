@@ -1,5 +1,6 @@
 # Spidertrap
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#a350">Medium</a>
 ## Spidertrap
 - In a terminal, obtain your IP and cd into  ```/opt/spidertrap```
 - Start spidertrap
