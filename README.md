@@ -16,7 +16,7 @@ Full lab explanation available on my <a href="https://medium.com/@swathitadepall
 - We're going to mirror the website locally with this command:
 <pre>sudo wget -m http://127.0.0.1:8000</pre>
 - Spidertrap will start crawling through the mirrored website and make HTTP requests to different paths from the directory list file until it crashes <br><br>
-<img src="https://github.com/user-attachments/assets/664dd48c-350f-4123-bc3b-5db997dc7ea1" width="1000" height="auto" />
+<img src="https://github.com/user-attachments/assets/664dd48c-350f-4123-bc3b-5db997dc7ea1" width="1000" height="auto" /><br><br>
 
-
+<a href="https://github.com/swathinator/Homelabs">Back to Homelabs</a>
 
